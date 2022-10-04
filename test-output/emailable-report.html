@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="8">Suite</th></tr>
+<tr><td><a href="#t0">ChromeTest</a></td><td class="num">6</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">204,703</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">ChromeTest &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">com.SauceDemo.TestClasses.TC002_VerifyLogoutFunctionality</td><td><a href="#m0">logout</a></td><td rowspan="1">1664871799477</td><td rowspan="1">30619</td></tr><tr><th colspan="4">ChromeTest &#8212; skipped (configuration methods)</th></tr><tr class="skippedeven"><td rowspan="1">com.SauceDemo.TestClasses.TC002_VerifyLogoutFunctionality</td><td><a href="#m1">browserClose</a></td><td rowspan="1">1664871830175</td><td rowspan="1">-1664871830175</td></tr><tr><th colspan="4">ChromeTest &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.SauceDemo.TestClasses.TC001_VerifyLoginFunctionality</td><td><a href="#m2">loginFunctionality</a></td><td rowspan="1">1664871780540</td><td rowspan="1">1247</td></tr><tr class="passedodd"><td rowspan="1">com.SauceDemo.TestClasses.TC002_VerifyLogoutFunctionality</td><td><a href="#m3">logoutFunctionality</a></td><td rowspan="1">1664871798541</td><td rowspan="1">931</td></tr><tr class="passedeven"><td rowspan="1">com.SauceDemo.TestClasses.TC003_VerifySingleBagProductAddToCartFunctionality</td><td><a href="#m4">singleBagProductAddToCartFunctionality</a></td><td rowspan="1">1664871863299</td><td rowspan="1">1000</td></tr><tr class="passedodd"><td rowspan="1">com.SauceDemo.TestClasses.TC004_VerifyMultipleAddToCartFunctionality</td><td><a href="#m5">multipleAddToCartFunctionality</a></td><td rowspan="1">1664871888784</td><td rowspan="1">3286</td></tr><tr class="passedeven"><td rowspan="1">com.SauceDemo.TestClasses.TC006_VerifyCheckoutFunctionality</td><td><a href="#m6">checkoutFunctionality</a></td><td rowspan="1">1664871918492</td><td rowspan="1">15437</td></tr><tr class="passedodd"><td rowspan="1">com.SauceDemo.TestClasses.TC007_VerifyProductBuyingFunctionality</td><td><a href="#m7">buyingFunctionality</a></td><td rowspan="1">1664871954810</td><td rowspan="1">7339</td></tr></tbody>
+</table>
+<h2>ChromeTest</h2><h3 id="m0">com.SauceDemo.TestClasses.TC002_VerifyLogoutFunctionality#logout</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//button[@id=&apos;react-burger-menu-btn&apos;]&quot;}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;MAYUR-PC&apos;, ip: &apos;192.168.0.104&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;17.0.4&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\Mayur\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51401}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a5358aff074c6aa2619d85fbad765113
+*** Element info: {Using=xpath, value=//button[@id=&apos;react-burger-menu-btn&apos;]}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+	at com.SauceDemo.POMClasses.HomePagePOMClass.clickOnMenu(HomePagePOMClass.java:61)
+	at com.SauceDemo.TestClasses.TestBaseClass.logout(TestBaseClass.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 37 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.SauceDemo.TestClasses.TC002_VerifyLogoutFunctionality#browserClose</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.SauceDemo.TestClasses.TC001_VerifyLoginFunctionality#loginFunctionality</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.SauceDemo.TestClasses.TC002_VerifyLogoutFunctionality#logoutFunctionality</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.SauceDemo.TestClasses.TC003_VerifySingleBagProductAddToCartFunctionality#singleBagProductAddToCartFunctionality</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">com.SauceDemo.TestClasses.TC004_VerifyMultipleAddToCartFunctionality#multipleAddToCartFunctionality</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">com.SauceDemo.TestClasses.TC006_VerifyCheckoutFunctionality#checkoutFunctionality</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">com.SauceDemo.TestClasses.TC007_VerifyProductBuyingFunctionality#buyingFunctionality</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

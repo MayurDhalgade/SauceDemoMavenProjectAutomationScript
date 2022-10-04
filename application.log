@@ -1,0 +1,93 @@
+2022-10-04 01:22:50,255  INFO [main] SauceDemoMavenProject:53 - Browser is opened
+2022-10-04 01:22:50,458  INFO [main] SauceDemoMavenProject:56 - Browser is maximized
+2022-10-04 01:22:51,730  INFO [main] SauceDemoMavenProject:59 - URL is opened
+2022-10-04 01:22:51,754  INFO [main] SauceDemoMavenProject:62 - Wait applied
+2022-10-04 01:22:52,989  INFO [main] SauceDemoMavenProject:74 - Username Entered
+2022-10-04 01:22:53,777  INFO [main] SauceDemoMavenProject:78 - Password Entered
+2022-10-04 01:23:00,531  INFO [main] SauceDemoMavenProject:82 - Clicked on Login button
+2022-10-04 01:23:00,638  INFO [main] SauceDemoMavenProject:30 - Validation is applied
+2022-10-04 01:23:01,785  INFO [main] SauceDemoMavenProject:34 - Clicked on menu button
+2022-10-04 01:23:03,212  INFO [main] SauceDemoMavenProject:92 - Clicked on menu button
+2022-10-04 01:23:03,929  INFO [main] SauceDemoMavenProject:95 - Clicked on logot button
+2022-10-04 01:23:03,938  INFO [main] SauceDemoMavenProject:97 - Logout successful
+2022-10-04 01:23:05,445  INFO [main] SauceDemoMavenProject:105 - Browser closed
+2022-10-04 01:23:11,032  INFO [main] SauceDemoMavenProject:53 - Browser is opened
+2022-10-04 01:23:11,218  INFO [main] SauceDemoMavenProject:56 - Browser is maximized
+2022-10-04 01:23:12,251  INFO [main] SauceDemoMavenProject:59 - URL is opened
+2022-10-04 01:23:12,344  INFO [main] SauceDemoMavenProject:62 - Wait applied
+2022-10-04 01:23:13,774  INFO [main] SauceDemoMavenProject:74 - Username Entered
+2022-10-04 01:23:15,023  INFO [main] SauceDemoMavenProject:78 - Password Entered
+2022-10-04 01:23:18,539  INFO [main] SauceDemoMavenProject:82 - Clicked on Login button
+2022-10-04 01:23:18,735  INFO [main] SauceDemoMavenProject:27 - Clicked on menu button
+2022-10-04 01:23:19,113  INFO [main] SauceDemoMavenProject:30 - Clicked on menu button
+2022-10-04 01:23:19,444  INFO [main] SauceDemoMavenProject:34 - Clicked on menu button
+2022-10-04 01:23:19,470  INFO [main] SauceDemoMavenProject:43 - Validation is applied
+2022-10-04 01:24:13,321  INFO [main] SauceDemoMavenProject:53 - Browser is opened
+2022-10-04 01:24:13,760  INFO [main] SauceDemoMavenProject:56 - Browser is maximized
+2022-10-04 01:24:15,449  INFO [main] SauceDemoMavenProject:59 - URL is opened
+2022-10-04 01:24:15,491  INFO [main] SauceDemoMavenProject:62 - Wait applied
+2022-10-04 01:24:17,018  INFO [main] SauceDemoMavenProject:74 - Username Entered
+2022-10-04 01:24:17,908  INFO [main] SauceDemoMavenProject:78 - Password Entered
+2022-10-04 01:24:23,297  INFO [main] SauceDemoMavenProject:82 - Clicked on Login button
+2022-10-04 01:24:24,180  INFO [main] SauceDemoMavenProject:27 - Clicked on Add to cart button of single Bag product
+2022-10-04 01:24:24,293  INFO [main] SauceDemoMavenProject:36 - Validation is applied
+2022-10-04 01:24:25,425  INFO [main] SauceDemoMavenProject:92 - Clicked on menu button
+2022-10-04 01:24:26,462  INFO [main] SauceDemoMavenProject:95 - Clicked on logot button
+2022-10-04 01:24:26,477  INFO [main] SauceDemoMavenProject:97 - Logout successful
+2022-10-04 01:24:29,145  INFO [main] SauceDemoMavenProject:105 - Browser closed
+2022-10-04 01:24:41,414  INFO [main] SauceDemoMavenProject:53 - Browser is opened
+2022-10-04 01:24:41,645  INFO [main] SauceDemoMavenProject:56 - Browser is maximized
+2022-10-04 01:24:42,625  INFO [main] SauceDemoMavenProject:59 - URL is opened
+2022-10-04 01:24:42,649  INFO [main] SauceDemoMavenProject:62 - Wait applied
+2022-10-04 01:24:43,778  INFO [main] SauceDemoMavenProject:74 - Username Entered
+2022-10-04 01:24:44,702  INFO [main] SauceDemoMavenProject:78 - Password Entered
+2022-10-04 01:24:48,781  INFO [main] SauceDemoMavenProject:82 - Clicked on Login button
+2022-10-04 01:24:51,854  INFO [main] SauceDemoMavenProject:27 - All 6 items added to cart
+2022-10-04 01:24:52,069  INFO [main] SauceDemoMavenProject:35 - Validation is applied
+2022-10-04 01:24:53,152  INFO [main] SauceDemoMavenProject:92 - Clicked on menu button
+2022-10-04 01:24:53,673  INFO [main] SauceDemoMavenProject:95 - Clicked on logot button
+2022-10-04 01:24:53,674  INFO [main] SauceDemoMavenProject:97 - Logout successful
+2022-10-04 01:24:54,947  INFO [main] SauceDemoMavenProject:105 - Browser closed
+2022-10-04 01:25:07,968  INFO [main] SauceDemoMavenProject:53 - Browser is opened
+2022-10-04 01:25:08,185  INFO [main] SauceDemoMavenProject:56 - Browser is maximized
+2022-10-04 01:25:09,925  INFO [main] SauceDemoMavenProject:59 - URL is opened
+2022-10-04 01:25:09,954  INFO [main] SauceDemoMavenProject:62 - Wait applied
+2022-10-04 01:25:11,349  INFO [main] SauceDemoMavenProject:74 - Username Entered
+2022-10-04 01:25:12,237  INFO [main] SauceDemoMavenProject:78 - Password Entered
+2022-10-04 01:25:18,490  INFO [main] SauceDemoMavenProject:82 - Clicked on Login button
+2022-10-04 01:25:20,354  INFO [main] SauceDemoMavenProject:29 - All 6 items added to cart
+2022-10-04 01:25:21,017  INFO [main] SauceDemoMavenProject:33 - Cart page opened
+2022-10-04 01:25:21,665  INFO [main] SauceDemoMavenProject:40 - Checkout page opened
+2022-10-04 01:25:22,368  INFO [main] SauceDemoMavenProject:47 - First name entered
+2022-10-04 01:25:23,333  INFO [main] SauceDemoMavenProject:51 - Last name entered
+2022-10-04 01:25:24,856  INFO [main] SauceDemoMavenProject:56 - Postal code entered
+2022-10-04 01:25:25,888  INFO [main] SauceDemoMavenProject:61 - Clicked on continue button
+2022-10-04 01:25:25,924  INFO [main] SauceDemoMavenProject:69 - Validation is applyed
+2022-10-04 01:25:25,925  INFO [main] SauceDemoMavenProject:73 - checkout successful and moved on buying page
+2022-10-04 01:25:26,928  INFO [main] SauceDemoMavenProject:77 - moved back on Checkout page
+2022-10-04 01:25:27,786  INFO [main] SauceDemoMavenProject:81 - moved back on Cart page
+2022-10-04 01:25:33,928  INFO [main] SauceDemoMavenProject:85 - moved back on Home page
+2022-10-04 01:25:35,469  INFO [main] SauceDemoMavenProject:92 - Clicked on menu button
+2022-10-04 01:25:36,502  INFO [main] SauceDemoMavenProject:95 - Clicked on logot button
+2022-10-04 01:25:36,503  INFO [main] SauceDemoMavenProject:97 - Logout successful
+2022-10-04 01:25:40,186  INFO [main] SauceDemoMavenProject:105 - Browser closed
+2022-10-04 01:25:48,064  INFO [main] SauceDemoMavenProject:53 - Browser is opened
+2022-10-04 01:25:48,272  INFO [main] SauceDemoMavenProject:56 - Browser is maximized
+2022-10-04 01:25:49,504  INFO [main] SauceDemoMavenProject:59 - URL is opened
+2022-10-04 01:25:49,522  INFO [main] SauceDemoMavenProject:62 - Wait applied
+2022-10-04 01:25:50,524  INFO [main] SauceDemoMavenProject:74 - Username Entered
+2022-10-04 01:25:51,336  INFO [main] SauceDemoMavenProject:78 - Password Entered
+2022-10-04 01:25:54,808  INFO [main] SauceDemoMavenProject:82 - Clicked on Login button
+2022-10-04 01:25:56,386  INFO [main] SauceDemoMavenProject:29 - All 6 items added to cart
+2022-10-04 01:25:56,980  INFO [main] SauceDemoMavenProject:33 - Cart page opened
+2022-10-04 01:25:57,791  INFO [main] SauceDemoMavenProject:40 - Checkout page opened
+2022-10-04 01:25:58,691  INFO [main] SauceDemoMavenProject:48 - First name entered
+2022-10-04 01:25:59,388  INFO [main] SauceDemoMavenProject:52 - Last name entered
+2022-10-04 01:26:00,168  INFO [main] SauceDemoMavenProject:57 - Postal code entered
+2022-10-04 01:26:00,844  INFO [main] SauceDemoMavenProject:62 - Clicked on continue button
+2022-10-04 01:26:01,206  INFO [main] SauceDemoMavenProject:70 - Clicked on finish button and end page opened
+2022-10-04 01:26:01,248  INFO [main] SauceDemoMavenProject:80 - Validation is applyed
+2022-10-04 01:26:03,147  INFO [main] SauceDemoMavenProject:92 - Clicked on menu button
+2022-10-04 01:26:03,692  INFO [main] SauceDemoMavenProject:95 - Clicked on logot button
+2022-10-04 01:26:03,693  INFO [main] SauceDemoMavenProject:97 - Logout successful
+2022-10-04 01:26:05,352  INFO [main] SauceDemoMavenProject:105 - Browser closed
